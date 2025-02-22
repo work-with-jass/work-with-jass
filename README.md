@@ -18,6 +18,7 @@ I'm continuously developing my skills in Python, machine learning, and data visu
 |----------|----------|----------|
 | Pizza Sales Dashboard | A Power BI dashboard that visualizes pizza sales trends, customer segmentation, and key business metrics. | [Pizza_Sales_Dashboard](https://github.com/work-with-jass/Pizza-Sales-PowerBI-Dashboard)   |
 | SQL BoxStore | A relational OLAP database for a Box Store, designed for data analysis, reporting, and performance optimization. This project focuses on data normalization, complex relationships, and multi-dimensional reporting to support business intelligence.|[SQL BoxStore](https://github.com/work-with-jass/SQL-BoxStore)|
+| Driver Drowsiness Detection using Deep Learning | This project detects driver drowsiness by analyzing eye and facial states through a Convolutional Neural Network (CNN) and ResNet50V2 transfer learning model. With 99% accuracy, it integrates with OpenCV for real-time monitoring and triggers an audio alert if drowsiness is detected. | [DDD Project](https://github.com/work-with-jass/Driver-Drowsiness-Detection-DDD-using-Deep-Learning) |
 
 ## 🏆 Certifications 
 | Certification | Organization | Links |
