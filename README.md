@@ -10,7 +10,7 @@ I'm continuously developing my skills in Python, machine learning, and data visu
 * Languages: Python, SQL, NoSQL
 * Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 * Data Visualization: Power BI, Matplotlib, Seaborn
-* Tools: Git, Jupyter Notebooks, VS Code, Google Colab
+* Tools: Git, Jupyter Notebooks, VS Code, Google Colab, Docker
 
 ## 📊 Data Science Projects
 
