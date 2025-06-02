@@ -14,6 +14,7 @@ I'm continuously developing my skills in Python, machine learning, and data visu
 
 ## 🚀 Internship - City of Winnipeg (Jan 2025 - April 2025)
 Power Automate | BERTopic
+
 Developed an automated document classification solution addressing a real-world data challenge, integrating machine learning to streamline business document organization.
 
 ## 📊 Data Science Projects
