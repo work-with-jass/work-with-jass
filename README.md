@@ -2,7 +2,7 @@
 
 <h3 align="center">Data Science & Machine Learning Enthusiast | RRC Polytech Student</h3>
 
-I’m a data science and machine learning student at **RRC Polytech**, with a passion for turning data into valuable insights. From building predictive models to analyzing trends and visualizing data, I thrive on solving complex problems with data-driven approaches.
+Graduated in data science and machine learning from **RRC Polytech**, with a passion for turning data into valuable insights. From building predictive models to analyzing trends and visualizing data, I thrive on solving complex problems with data-driven approaches.
 
 I'm continuously developing my skills in Python, machine learning, and data visualization, and I love working on hands-on projects to apply what I learn in real-world scenarios.
 
@@ -11,6 +11,10 @@ I'm continuously developing my skills in Python, machine learning, and data visu
 * Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 * Data Visualization: Power BI, Matplotlib, Seaborn
 * Tools: Git, Jupyter Notebooks, VS Code, Google Colab, Docker
+
+## 🚀 Internship - City of Winnipeg (Jan 2025 - April 2025)
+Power Automate | BERTopic
+Developed an automated document classification solution addressing a real-world data challenge, integrating machine learning to streamline business document organization.
 
 ## 📊 Data Science Projects
 
